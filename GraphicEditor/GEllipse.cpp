@@ -14,6 +14,10 @@ IMPLEMENT_SERIAL(GEllipse, GObject, 0)
 //　持失切 貢 社瑚切
 //--------------------------------------------------------------------------
 //持失切
+
+
+
+//hhh
 GEllipse::GEllipse(void) {
 	GObject::m_sType = ELLIPSE;
 }
